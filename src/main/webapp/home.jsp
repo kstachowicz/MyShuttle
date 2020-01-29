@@ -62,7 +62,7 @@
                     </div>
                 </div>
                 <div class="panel-footer">
-                    <h5>Internal Use Only</h5>
+                    <h5>Internal Use Only. All copyrights reserved</h5>
                 </div>
              </div>
         </section>
