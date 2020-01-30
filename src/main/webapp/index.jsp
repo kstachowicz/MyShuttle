@@ -15,7 +15,7 @@
                         <img src="Content/Images/logologin.png">
                     </div>
                     <div class="row">
-                        <h1>HELLO FROM NEW LAYOUT!!</h1>
+                        <h1>HELLO FROM DEVOPS DAYSLAYOUT!!</h1>
                         <form action="login" method="post">
                             <div class="form-group">
                                 <h4><label class="control-label" for="UserName">Employee email</label></h4>
