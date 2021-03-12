@@ -20,7 +20,7 @@
                     <h2>Dashboard</h2>
                 </div>
                 <div class="panel-body">
-                    <a href="home.jsp">Old version - need to be fixed</a>
+                    <a href="home.jsp">New version - this is better!</a>
                 </div>
                 <div class="panel-footer">
                     <h5>Internal Use Only!!</h5>
