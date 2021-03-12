@@ -20,7 +20,7 @@
                     <h2>Dashboard</h2>
                 </div>
                 <div class="panel-body">
-                    <a href="home.jsp">Access Your Fare History</a>
+                    <a href="home.jsp">This is better!</a>
                 </div>
                 <div class="panel-footer">
                     <h5>Internal Use Only!!</h5>
